@@ -1,2 +1,2 @@
 # BeerMe
-Working Repository for creating an IOS app for easier access to BeerAdvocate's data. 
+Scraper and helper script for getting all of beer advocate's ratings data. 
